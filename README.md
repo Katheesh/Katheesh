@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 - 🔭 I’m currently working on freelancing
 - 🌱 I’m currently learning DevOps
