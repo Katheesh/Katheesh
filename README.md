@@ -1,5 +1,7 @@
 # Hi, I'M KATHEESKUMAR
 
+> Welcome to my profile! I'm a student of Software Engineering, full-time coder. Thanks for visiting and I'd love to connect!
+
 ## ⚡ Technologies
 > ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
