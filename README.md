@@ -3,7 +3,9 @@
 > Welcome to my profile! I'm a student of Software Engineering, full-time coder. Thanks for visiting and I'd love to connect!
 
 ## ⚡ Technologies
-> ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+> ![PHP](https://img.shields.io/badge/-PHP-8E9CFF?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
@@ -30,5 +32,7 @@
 ### 🖥 Os and Apps
 
 > [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows)
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-sublime-text?style=flat-square&logo=sublime-text&logoColor=white)](https://sublimetext.com/)
