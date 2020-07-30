@@ -41,6 +41,7 @@
 > [![GitHub stars](https://img.shields.io/github/stars/opshit/opshit)](https://github.com/opshit)
 [![GitHub contributors](https://img.shields.io/github/contributors/opshit/opshit)](https://github.com/opshit)
 [![GitHub repo size](https://img.shields.io/github/repo-size/opshit/opshit)](https://github.com/opshit)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/opshit/opshit)](https://github.com/opshit)
 [![GitHub issues](https://img.shields.io/github/issues/opshit/opshit)](https://github.com/opshit)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/opshit/opshit)](https://github.com/opshit)
 [![GitHub issue/pull request detail](https://img.shields.io/github/issues/detail/state/opshit/opshit/16)](https://github.com/opshit)
