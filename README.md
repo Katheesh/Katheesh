@@ -2,7 +2,7 @@
 
 > Welcome to my profile! I'm a student of Software Engineering, full-time coder. Thanks for visiting and I'd love to connect!
 
-## ⚡ Technologies
+### ⚡ Technologies
 > ![PHP](https://img.shields.io/badge/-PHP-8E9CFF?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -36,3 +36,12 @@
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Editor](https://img.shields.io/badge/Editor-sublime-text?style=flat-square&logo=sublime-text&logoColor=white)](https://sublimetext.com/)
+
+#### 🔴 @[opshit](https://github.com/opshit) (The NodeJS Framework for Smart Back-End)
+> ![GitHub stars](https://img.shields.io/github/stars/opshit/opshit)
+![GitHub contributors](https://img.shields.io/github/contributors/opshit/opshit)
+![GitHub repo size](https://img.shields.io/github/repo-size/opshit/opshit)
+![GitHub issues](https://img.shields.io/github/issues/opshit/opshit)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/opshit/opshit)
+![GitHub issue/pull request detail](https://img.shields.io/github/issues/detail/state/opshit/opshit/16)
+![GitHub last commit](https://img.shields.io/github/last-commit/opshit/opshit)
