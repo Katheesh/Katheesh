@@ -43,4 +43,5 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/opshit/opshit)](https://github.com/opshit)
 [![GitHub issues](https://img.shields.io/github/issues/opshit/opshit)](https://github.com/opshit/opshit/issues)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/opshit/opshit)](https://github.com/opshit/opshit/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/opshit/opshit)](https://github.com/opshit/opshit/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/opshit/opshit)](https://github.com/opshit/opshit/commits/master)
