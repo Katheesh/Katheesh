@@ -2,11 +2,6 @@ Welcome to my profile!
 # Hi, I'M KATHEESKUMAR.
 ### **I'm a software engineer & self motivated coder.Thanks for visiting and I'd ❤ to connect!**
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/katheesh/count.svg" />
-</p>
-
 ### ⚡ Programming Languages, Front-end, DBMS, DevOps Technologies!
 > ![PHP](https://img.shields.io/badge/-PHP-8E9CFF?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
@@ -36,6 +31,11 @@ Welcome to my profile!
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/katheesh/count.svg" />
+</p>
 
 ### 🖥 Os and Apps
 
