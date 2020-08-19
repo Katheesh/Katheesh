@@ -1,6 +1,6 @@
-# Hi, I'M KATHEESKUMAR
 > Welcome to my profile!
-### **I'm a software engineer & self motivated coder.Thanks for visiting and I'd love ❤ to connect!**
+# Hi, I'M KATHEESKUMAR.
+### **I'm a software engineer & self motivated coder.Thanks for visiting and I'd ❤ to connect!**
 
 ### ⚡ Technologies
 > ![PHP](https://img.shields.io/badge/-PHP-8E9CFF?style=flat-square&logo=php)
