@@ -10,8 +10,10 @@ Welcome to my profile!
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![.Net](https://img.shields.io/badge/-.Net-430098?style=flat-square&logo=.Net)
 
 > ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
+![Vuepress](https://img.shields.io/badge/-Vuepress-%232c3e50?style=flat-square&logo=Vuepress)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/-MarkDown-007ACC?style=flat-square&logo=markdown&logoColor=white)
