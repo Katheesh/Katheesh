@@ -2,6 +2,9 @@ Welcome to my profile!
 # 👋 Hi, I'M KATHEESKUMAR.
 ### 🙋‍♂ **I'm a software engineer & self motivated coder.Thanks for visiting and I'd ❤ to connect!**
 
+#### ❤️ வினைத்திட்பம் என்பது ஒருவன் மனத்திட்பம். மற்றைய எல்லாம் பிற. 
+#### 💯 Efficiency consists in a resolute mind. Other things come thereafter.
+
 ### ⚡ Programming Languages, Front-end, DBMS, DevOps Technologies!
 > ![PHP](https://img.shields.io/badge/-PHP-8E9CFF?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
