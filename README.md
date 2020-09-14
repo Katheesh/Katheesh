@@ -37,11 +37,18 @@ Welcome to my profile!
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
+#### 🔴 @[KASFY](https://github.com/opshit) (The NodeJS Framework for Smart Back-End)  🔘 [DOCS](https://kasfy.js.org)
+> [![GitHub stars](https://img.shields.io/github/stars/kasfy/kasfy)](https://github.com/kasfy/kasfy/stargazers)
+[![GitHub contributors](https://img.shields.io/github/contributors/kasfy/kasfy)](https://github.com/kasfy/kasfy/graphs/contributors)
+[![GitHub repo size](https://img.shields.io/github/repo-size/kasfy/kasfy)](https://github.com/kasfy)
+[![GitHub issues](https://img.shields.io/github/issues/kasfy/kasfy)](https://github.com/kasfy/kasfy/issues)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/kasfy/kasfy)](https://github.com/kasfy/kasfy/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/kasfy/kasfy)](https://github.com/kasfy/kasfy/commits/master)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/katheesh/count.svg" />
 </p>
-
 ### 🖥 Os and Apps
 
 > [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
@@ -50,10 +57,5 @@ Welcome to my profile!
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Editor](https://img.shields.io/badge/Editor-sublime-text?style=flat-square&logo=sublime-text&logoColor=white)](https://sublimetext.com/)
 
-#### 🔴 @[KASFY](https://github.com/opshit) (The NodeJS Framework for Smart Back-End)  🔘 [DOCS](https://kasfy.js.org)
-> [![GitHub stars](https://img.shields.io/github/stars/kasfy/kasfy)](https://github.com/kasfy/kasfy/stargazers)
-[![GitHub contributors](https://img.shields.io/github/contributors/kasfy/kasfy)](https://github.com/kasfy/kasfy/graphs/contributors)
-[![GitHub repo size](https://img.shields.io/github/repo-size/kasfy/kasfy)](https://github.com/kasfy)
-[![GitHub issues](https://img.shields.io/github/issues/kasfy/kasfy)](https://github.com/kasfy/kasfy/issues)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/kasfy/kasfy)](https://github.com/kasfy/kasfy/releases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/kasfy/kasfy)](https://github.com/kasfy/kasfy/commits/master)
+
+
