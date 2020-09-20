@@ -49,8 +49,8 @@ Welcome to my profile!
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/katheesh/count.svg" />
 </p>
-### 🖥 Os and Apps
 
+### 🖥 Os and Apps
 > [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows)
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
