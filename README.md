@@ -1,11 +1,11 @@
-Welcome to my profile!
+##### 🙏 வணக்கம் & Welcome to my profile!
 # 👋 Hi, I'M [KATHEESKUMAR](https://katheesh.buzz). ▶️▶️▶️ 📎[கதீஸ்குமார்](https://katheesh.buzz)📎
 ### 🙋‍♂ **I'm a software engineer & self motivated coder.Thanks for visiting and I'd ❤ to connect!**
 
 #### ❤️ வினைத்திட்பம் என்பது ஒருவன் மனத்திட்பம். மற்றைய எல்லாம் பிற. 
 #### 💯 Efficiency consists in a resolute mind. Other things come thereafter.
 
-### ⚡ Programming Languages, Front-end, DBMS, DevOps Technologies!
+#### ⚡ Programming Languages, Front-end, DBMS, DevOps Technologies!
 > ![PHP](https://img.shields.io/badge/-PHP-8E9CFF?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -37,7 +37,7 @@ Welcome to my profile!
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
-#### 🔴 @[KASFY](https://github.com/kasfy) (The NodeJS Framework for Smart Back-End)  🔘 [DOCS](https://kasfy.js.org)
+#### 👉 @[KASFY](https://github.com/kasfy) (The NodeJS Framework for Smart Back-End)  👉 [DOCS](https://kasfy.js.org)
 > [![GitHub stars](https://img.shields.io/github/stars/kasfy/kasfy)](https://github.com/kasfy/kasfy/stargazers)
 [![GitHub contributors](https://img.shields.io/github/contributors/kasfy/kasfy)](https://github.com/kasfy/kasfy/graphs/contributors)
 [![GitHub repo size](https://img.shields.io/github/repo-size/kasfy/kasfy)](https://github.com/kasfy)
