@@ -44,18 +44,3 @@
 [![GitHub issues](https://img.shields.io/github/issues/kasfy/kasfy)](https://github.com/kasfy/kasfy/issues)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/kasfy/kasfy)](https://github.com/kasfy/kasfy/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/kasfy/kasfy)](https://github.com/kasfy/kasfy/commits/master)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/katheesh/count.svg" />
-</p>
-
-### 🖥 Os and Apps
-> [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows)
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Editor](https://img.shields.io/badge/Editor-sublime-text?style=flat-square&logo=sublime-text&logoColor=white)](https://sublimetext.com/)
-
-
-
