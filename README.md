@@ -1,5 +1,5 @@
 ##### 🙏 வணக்கம் & Welcome to my profile!
-# 👋 Hi, I'M [KATHEESKUMAR](https://katheesh.buzz). ▶️▶️▶️ [கதீஸ்குமார்](https://katheesh.buzz)
+# 👋 Hi, I'M [KATHEESKUMAR](https://katheesh.buzz). ▶️▶️▶️ [[கதீஸ்குமார்]](https://katheesh.buzz)
 ### 🙋‍♂ **I'm a software engineer & self motivated coder.Thanks for visiting and I'd ❤ to connect!**
 
 #### ❤️ வினைத்திட்பம் என்பது ஒருவன் மனத்திட்பம். மற்றைய எல்லாம் பிற. 
