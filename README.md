@@ -16,12 +16,11 @@
 ![.Net](https://img.shields.io/badge/-.Net-430098?style=flat-square&logo=.Net)
 
 > ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
+![Angular](https://img.shields.io/badge/-Angular-%232c3e50?style=flat-square&logo=Angular)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/-MarkDown-007ACC?style=flat-square&logo=markdown&logoColor=white)
-![Vuepress](https://img.shields.io/badge/-Vuepress-%232c3e50?style=flat-square&logo=Vue)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 > ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
